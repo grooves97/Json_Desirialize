@@ -9,28 +9,28 @@ namespace NetConsole
 {
     public class Wand
     {
-        public string wood { get; set; }
-        public string core { get; set; }
-        public object length { get; set; }
+        public string Wood { get; set; }
+        public string Core { get; set; }
+        public double? Length { get; set; }
     }
 
     public class RootObject
     {
-        public string name { get; set; }
-        public string species { get; set; }
-        public string gender { get; set; }
-        public string house { get; set; }
-        public string dateOfBirth { get; set; }
-        public object yearOfBirth { get; set; }
-        public string ancestry { get; set; }
-        public string eyeColour { get; set; }
-        public string hairColour { get; set; }
-        public Wand wand { get; set; }
-        public string patronus { get; set; }
-        public bool hogwartsStudent { get; set; }
-        public bool hogwartsStaff { get; set; }
-        public string actor { get; set; }
-        public bool alive { get; set; }
-        public string image { get; set; }
+        public string Name { get; set; }
+        public string Species { get; set; }
+        public string Gender { get; set; }
+        public string House { get; set; }
+        public string DateOfBirth { get; set; }
+        public object YearOfBirth { get; set; }
+        public string Ancestry { get; set; }
+        public string EyeColour { get; set; }
+        public string HairColour { get; set; }
+        public Wand Wand { get; set; }
+        public string Patronus { get; set; }
+        public bool HogwartsStudent { get; set; }
+        public bool HogwartsStaff { get; set; }
+        public string Actor { get; set; }
+        public bool Alive { get; set; }
+        public string Image { get; set; }
     }
 }

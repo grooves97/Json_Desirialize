@@ -9,3 +9,14 @@ C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\obj\De
 C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\obj\Debug\NetConsole.csproj.CopyComplete
 C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\obj\Debug\NetConsole.exe
 C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\obj\Debug\NetConsole.pdb
+C:\Users\ww\Documents\GitHub\Json\NetConsole\bin\Debug\NetConsole.exe.config
+C:\Users\ww\Documents\GitHub\Json\NetConsole\bin\Debug\NetConsole.exe
+C:\Users\ww\Documents\GitHub\Json\NetConsole\bin\Debug\NetConsole.pdb
+C:\Users\ww\Documents\GitHub\Json\NetConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ww\Documents\GitHub\Json\NetConsole\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ww\Documents\GitHub\Json\NetConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ww\Documents\GitHub\Json\NetConsole\obj\Debug\NetConsole.csprojAssemblyReference.cache
+C:\Users\ww\Documents\GitHub\Json\NetConsole\obj\Debug\NetConsole.csproj.CoreCompileInputs.cache
+C:\Users\ww\Documents\GitHub\Json\NetConsole\obj\Debug\NetConsole.csproj.CopyComplete
+C:\Users\ww\Documents\GitHub\Json\NetConsole\obj\Debug\NetConsole.exe
+C:\Users\ww\Documents\GitHub\Json\NetConsole\obj\Debug\NetConsole.pdb

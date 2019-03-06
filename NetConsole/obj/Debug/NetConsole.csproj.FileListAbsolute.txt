@@ -1,0 +1,11 @@
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\bin\Debug\NetConsole.exe.config
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\bin\Debug\NetConsole.exe
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\bin\Debug\NetConsole.pdb
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\obj\Debug\NetConsole.csprojAssemblyReference.cache
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\obj\Debug\NetConsole.csproj.CoreCompileInputs.cache
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\obj\Debug\NetConsole.csproj.CopyComplete
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\obj\Debug\NetConsole.exe
+C:\Users\НурсеитовА.CORP.000\source\repos\NetConsole\NetConsole\obj\Debug\NetConsole.pdb
